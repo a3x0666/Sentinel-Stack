@@ -51,8 +51,8 @@ This project simulates a lightweight SOC (Security Operations Center) workflow b
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/ssh-intrusion-detector.git
-cd ssh-intrusion-detector
+git clone https://github.com/a3x0666/Sentinel-Stack.git
+cd Sentinel-Stack
 
 python3 -m venv venv
 source venv/bin/activate
