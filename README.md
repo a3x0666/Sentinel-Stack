@@ -105,7 +105,8 @@ This tool modifies firewall rules and should be used in a controlled environment
 
 ## Demo
 
-(Add screenshots here)
+https://github.com/user-attachments/assets/4f0ecf6c-1f9c-473c-995e-fea819f99513
+
 
 ---
 
