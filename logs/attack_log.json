@@ -1,0 +1,15 @@
+[
+  {
+    "event": "bruteforce",
+    "ip": "[REDACTED]",
+    "attempts": 5,
+    "geo": "India | Bharti Airtel Limited",
+    "time": "Tue Mar 17 08:11:10 2026"
+  },
+  {
+    "event": "blocked",
+    "ip": "[REDACTED]",
+    "geo": "India | Bharti Airtel Limited",
+    "time": "Tue Mar 17 08:11:11 2026"
+  }
+]
